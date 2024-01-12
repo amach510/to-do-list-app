@@ -1,3 +1,4 @@
+
 function newItem(){
 
     //1. Adding a new item to the list of items: 
@@ -32,5 +33,4 @@ function newItem(){
          }
      // 4. Reordering the items: 
        $('#list').sortable();
-    
     }
